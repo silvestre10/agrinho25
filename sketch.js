@@ -1,4 +1,4 @@
-let personagem;
+let personagem
 let modo = 'campo';
 
 function setup() {
